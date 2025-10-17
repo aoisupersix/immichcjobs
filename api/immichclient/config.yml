@@ -1,0 +1,5 @@
+package: immichclient
+generate:
+  client: true
+  models: true
+output: ../../internal/immichclient/immichclient.gen.go
